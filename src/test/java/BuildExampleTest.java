@@ -10,4 +10,9 @@ public class BuildExampleTest {
     public void test(){
         Assert.assertEquals(1,1);
     }
+
+    @Test
+    public void test2(){
+        Assert.assertEquals(1,1);
+    }
 }
